@@ -1,4 +1,4 @@
-Refactoring some class based projects to brush up on React Hooks. 🧿
+Refactoring some class based projects to brush up on React Hooks. 🧿 Also making my own hook called useVideos alongside the usual primitives. 
 
 This one using the YouTube API. 💥
 
