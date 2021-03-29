@@ -6,7 +6,7 @@ Test by downloading and running on localhost! Can be swapped out for any api tha
 
 Making use of semantic UI for grid https://semantic-ui.com/ and axios for the API call. Other than that it's pretty bare bones.
 
-Configured the API to run on https://localhost:3000 only which is why there's no live link 🤾🏼‍♂️
+Configured the API to run on https://localhost:3000 only which is why there's no live link 🤾🏼‍♂️ I've removed mine from the code to0, so you'd have to replace that!
 
 
 # Getting Started with Create React App
