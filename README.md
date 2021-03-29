@@ -1,14 +1,21 @@
 Refactoring some class based projects to brush up on React Hooks. 🧿  
-Also making my own hook alongside the usual primitives. 
 
 This one using the YouTube API. 💥
 
-Test by downloading and running on localhost! Can be swapped out for any api that you'd like to use that works with search. 
+Swap out any API though and you pretty much get a bare bones search app! Just replace my video components with whatever components you need i.e articles works well with wikipedia api. 🤾🏼‍♂️ 
+
+Test by downloading and running on localhost or at the following: 
+
+👋 https://hardcore-williams-bfcc00.netlify.app/ 👋
+
 
 Making use of semantic UI for grid https://semantic-ui.com/ and axios for the API call. Other than that it's pretty bare bones.
 
-Configured the API to run on https://localhost:3000 only which is why there's no live link 🤾🏼‍♂️ 
-I've removed mine from the code too, so you'd have to replace that!
+Also making my own hook alongside the usual primitives. 
+Making use of throttling and debouncing to improve performance and search experience:
+https://css-tricks.com/debouncing-throttling-explained-examples/
+
+Configured the API to run on https://localhost:3000 and above domain only. 
 
 
 # Getting Started with Create React App

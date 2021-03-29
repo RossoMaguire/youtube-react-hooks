@@ -1,5 +1,5 @@
 import axios from "axios";
-const KEY = process.env.REACT_APP_YT_KEY;
+const YTKEY = process.env.REACT_APP_YT_KEY;
 
 export default axios.create({
   baseURL: "https://www.googleapis.com/youtube/v3",
@@ -7,6 +7,6 @@ export default axios.create({
     type: "video",
     part: "snippet",
     maxResults: 5,
-    key: KEY,
+    key: YTKEY,
   },
 });
